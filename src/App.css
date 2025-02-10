@@ -7,18 +7,11 @@
 
 body {
   background-image: url(./assets/image/banner.webp);
-  min-height: 100vh;
   justify-content: center;
-  align-items: center;
   background-position: center;
   background-size: cover;
 }
 
-.app {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
 
 .container {
   background-image: url(./assets/image/sharingan-live-obito-dark-aesthetic-8gl7myczfnkdh1b9.jpg);
